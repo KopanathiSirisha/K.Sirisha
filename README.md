@@ -1,4 +1,3 @@
-```md
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=200&section=header&text=Sirisha%20Kopanathi&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <h1 align="center">Hi 👋, I'm Sirisha Kopanathi</h1>
@@ -142,4 +141,3 @@ Frontend Developer • UI/UX Designer • Java Developer 🇮🇳
 </h3>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=120&section=footer"/>
-```
