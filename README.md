@@ -1,3 +1,4 @@
+```md
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=200&section=header&text=Sirisha%20Kopanathi&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <h1 align="center">Hi 👋, I'm Sirisha Kopanathi</h1>
@@ -18,6 +19,10 @@ Frontend Developer • UI/UX Designer • Java Developer 🇮🇳
 <a href="https://www.codechef.com/users/sirisha_4404">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -28,7 +33,8 @@ Frontend Developer • UI/UX Designer • Java Developer 🇮🇳
 
 💻 Frontend Developer & UI/UX Designer
 
-🌱 Currently Learning:
+🌱 Currently Learning
+
 - Java
 - React.js
 - MySQL
@@ -36,15 +42,17 @@ Frontend Developer • UI/UX Designer • Java Developer 🇮🇳
 
 🚀 Looking for opportunities in Software Development
 
-💬 Ask me about:
+💬 Ask me about
+
 - HTML
 - CSS
 - JavaScript
 - Java
 - UI/UX Design
 
-⚡ Fun Fact:
-> I love transforming ideas into beautiful user experiences.
+⚡ Fun Fact
+
+> I enjoy transforming ideas into beautiful digital experiences.
 
 ---
 
@@ -90,35 +98,42 @@ Frontend Developer • UI/UX Designer • Java Developer 🇮🇳
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Profile
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kopanathisirisha&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kopanathisirisha&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopanathisirisha&layout=compact&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Frontend-Developer-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI%2FUX-Designer-pink?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-Learner-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science-Student-blue?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kopanathisirisha&theme=tokyonight&row=1&column=7"/>
+
+<img src="https://img.shields.io/badge/HTML%20Essentials-Certified-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-green?style=for-the-badge&logo=hackerrank"/>
+
+<img src="https://img.shields.io/badge/CodeChef-250%2B%20Problems-brown?style=for-the-badge&logo=codechef"/>
+
+<img src="https://img.shields.io/badge/IoT-Certified-blue?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📫 Contact Me
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kopanathisirisha&theme=tokyo-night"/>
-</p>
+📧 Email: **kopanathisirisha63@gmail.com**
+
+🐙 GitHub: **github.com/kopanathisirisha**
+
+🍜 CodeChef: **codechef.com/users/sirisha_4404**
+
+💼 LinkedIn: **Add Your LinkedIn Profile Here**
 
 ---
 
