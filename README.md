@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Sirisha Kopanathi</h1>
 
 <h3 align="center">
@@ -114,4 +113,3 @@ Showcasing my projects, skills, and achievements.
 <p align="center">
 ⭐ If you like my work, consider giving a star to my repositories!
 </p>
-```
