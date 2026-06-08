@@ -1,41 +1,117 @@
+```md
 <h1 align="center">Hi 👋, I'm Sirisha Kopanathi</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kopanathisirisha&label=Profile%20views&color=0e75b6&style=flat" alt="kopanathisirisha" /> </p>
+<h3 align="center">
+Frontend Developer • UI/UX Designer • Java Enthusiast 🇮🇳
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kopanathisirisha" alt="kopanathisirisha" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 One of my best pieces [Sakura-House](https://kopanathisirisha.github.io/Sakura-House/)
-
-- 🌱 I’m currently learning **Java, JavScript, MySql, React**
-
-- 👯 Another one Created by me [Placement-cell](https://kopanathisirisha.github.io/ajivika/)
-
-- Let look Forward into another one [Online Plant Selling](https://kopanathisirisha.github.io/MyWebpage/)
-
-- 👨‍💻 All of my projects are available at [https://kopanathisirisha.github.io/KopanathiSirisha/](https://kopanathisirisha.github.io/KopanathiSirisha/)
-
-- 💬 Ask me about **html,css,javascript,java**
-
-- 📫 How to reach me **kopanathisirisha**
-
-- ⚡ Fun fact **I enjoy learning new technologies and exploring creative ideas.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.codechef.com/users/sirisha_4404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sirisha_4404" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Java+Developer;B.Tech+Data+Science+Student;Always+Learning+New+Things+🚀" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kopanathisirisha&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buymeacoffee KopanathiSirisha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee KopanathiSirisha" /></a></p><br><br>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kopanathisirisha&show_icons=true&locale=en&layout=compact" alt="kopanathisirisha" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kopanathisirisha&show_icons=true&locale=en" alt="kopanathisirisha" /></p>
+- 🎓 B.Tech CSE (Data Science) Student
+- 💻 Passionate about Web Development & UI/UX Design
+- 🌱 Currently learning **Java, React.js, MySQL & JavaScript**
+- 🎨 Designing modern user experiences using **Figma**
+- 🚀 Looking for opportunities in **Software Development**
+- 💬 Ask me about **HTML, CSS, JavaScript, Java**
+- ⚡ Fun Fact: *I enjoy transforming ideas into beautiful digital experiences.*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kopanathisirisha&" alt="kopanathisirisha" /></p>
+---
+
+## 🌟 Featured Projects
+
+### 🏠 Sakura House
+🔗 https://kopanathisirisha.github.io/Sakura-House/
+
+Japanese-inspired responsive website with elegant UI.
+
+### 💼 Placement Cell Portal (Ajivika)
+🔗 https://kopanathisirisha.github.io/ajivika/
+
+A placement management platform for students and recruiters.
+
+### 🌱 Online Plant Store
+🔗 https://kopanathisirisha.github.io/MyWebpage/
+
+An online shopping experience for plant lovers.
+
+### 🌐 Portfolio Website
+🔗 https://kopanathisirisha.github.io/KopanathiSirisha/
+
+Showcasing my projects, skills, and achievements.
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,java,react,mysql,git,github,figma,vscode" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:kopanathisirisha63@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kopanathisirisha">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/sirisha_4404">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kopanathisirisha&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kopanathisirisha&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopanathisirisha&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kopanathisirisha&theme=tokyonight&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+### ✨ Quote I Follow
+
+> "Success is not about being the best. It's about being better than yesterday."
+
+<p align="center">
+⭐ If you like my work, consider giving a star to my repositories!
+</p>
+```
